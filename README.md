@@ -1,10 +1,10 @@
-# React + Vite
+- it is a pet based website
+- you can add and update services
+- it has both frontend and backend
+- i used sweetalert and other packages
+- i used  daisyui and mamaba ui
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # b8a11-client-side-whoiswajid
-# b8a11-client-side-whoiswajid
+
+Client side Live Link : https://purrfect-pathways.web.app
+ 
